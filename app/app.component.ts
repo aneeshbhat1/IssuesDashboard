@@ -18,7 +18,7 @@ import {NewTreeData} from './TreeviewModel';
 selector : 'my-app',
 	template :  `<div class="container-fluid">
 		<div class="row page-header">
-			<img class="img-responsive col-lg-2 col-xs-4" src="./app/EF Education First Logo_tcm25-388033.jpg" alt="logo"/>
+			<img class="img-responsive col-lg-2 col-xs-4" src="./app/Logo_tcm25-388033.jpg" alt="logo"/>
 			<h1 class="txt-primary col-lg-2 center-block col-xs-8">Dashboard</h1>
 			<div class="col-lg-1 col-xs-12"></div>
 			<div class="col-lg-7 row col-xs-12">
